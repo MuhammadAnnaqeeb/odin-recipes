@@ -1,2 +1,2 @@
 First Project of The Odin Project
-A practice of HRML
+A practice of HTML
